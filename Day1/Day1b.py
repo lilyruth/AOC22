@@ -5,7 +5,7 @@ third_sum = 0
 
 
 
-f = open("day_1_input.txt", "r")
+f = open("Day1/day_1_input.txt", "r")
 for num in f: 
     if num != "\n" : 
         num = int(num)
